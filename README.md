@@ -1,7 +1,7 @@
 # hexalattice
 
 Generate and plot hexagonal lattices in 2D, with fine control over spacing between hexagons, arbitrary rotation of the grid around central tile, etc.
-The module computes and returns the center point for each fo the tiles in the lattice. 
+The module computes and returns the center point for each of the tiles in the lattice. 
 
 <p align="center">
   <img width="1000" src="https://github.com/alexkaz2/hexalattice/blob/master/example_hexagonal_lattices/collage.png">
